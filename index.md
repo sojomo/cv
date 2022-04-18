@@ -72,6 +72,14 @@ Ph.D conferred on 7 December 2012.
 Surgical and intraocular laser experience in rodent retinal disease models - mouse and rat.
 Surgical experience in mini-pig corneal disease model.
 
+#### Harvard Medical School
+
+April 2021 to April 2022
+Harvard Medical School -- Cambridge, Massachusetts, United States
+
+ - Postgraduate certificate in Surgical Leadership
+ - Awarded 1st place (of 180 candidates) in the Capstone Projects, the signiature assignment of the course
+
 ## Additonal training
 
  - 2008, Certified completion of the Laboratory Animals in Science and Teaching (LAST) accreditation and Modules 1,2 and 3 UK accreditation (ASPA)  
@@ -597,9 +605,75 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      D Scheers, L Van Os, S Ní Dhubhghaill, K Wouters, MJ Tassignon.  
      2020 J Cataract Refract Surg 46(4) 606-611  
  - Baseline Findings in the Retrospective Digital Computer Analysis of Keratoconus Evolution (REDCAKE) Project.     
-     M Jiménez-García, S Ní Dhubhghaill, C Koppen, D Varssano, J J Rozema.  
-     2020 Cornea Jun 10; Epub ahead of print  
-     
+     M Jiménez-García, S Ní Dhubhghaill, C Koppen, D Varssano, JJ Rozema.  
+     2020 Cornea Jun 10; Cornea 40 (2), 156-167  
+ - Age-related Axial Length Changes in Adults: A Review  
+     JJ Rozema, S Ní Dhubhghaill  
+     2020 Ophthalmic Physiol Opt 2020. https://doi.org/10.1111/opo.12728  
+ - The Influence of Preparation and Storage Time on Endothelial Cells in Quarter-Descemet Membrane Endothelial Keratoplasty (Quarter-DMEK) Grafts In vitro  
+     D Spinozzi, A Miron, J Lie, S Oellerich, S Ní Dhubhghaill, GRJ Melles.  
+     2020 Cell and Tissue Banking 21 (4), 615-623  
+ - Fifteen Years of IOL Exchange: Indications, Outcomes, and Complications.  
+    J Goemaere, C Trigaux, L Denissen, DC Dragnea, MT Hua, MJ Tassignon, S Ní Dhubhghaill.  
+    2020 Journal of Cataract and Refractive Surgery 48 (12), 1596-1603
+ - Clinical and Surgical Outcome of a Supplementary Multifocal Intraocular Lens Implanted With a Bag-In-The-Lens IOL: 5-year Follow Up.   
+     T Verdonck, L Werner, S Ni Dhubhghaill, MJ Tassignon.  
+    2020 Ophthalmic Research 64, 503–511  
+ - Proliferation Increasing Genetic Endineering In Human Corneal Endothelial Cells: A Literature Review  
+     W Arras, H Vercammen, S Ni Dhubhghaill, C Koppen, B Van den Bogerd.  
+     2020 Frontiers in Medicine 8  
+ - Scheimpflug Densitometry in Keratoconus: A New Method of Visualising the Cone  
+     M Jiménez-García, S Ní Dhubhghaill, A Consejo, S Hershko, C Koppen, JJ Rozema.  
+     2021 Cornea 40 (2), 194-202  
+ - Phacoemulsification After Descement Membrane Endothelial Keratoplasty: Incidence and Influence on Endothelial Cell Density  
+    I Vasiliauskaitė, S Ní Dhubhghaill, L Ham, K Van Dijk, S Oellerich, GRJ Melles  
+    2021 Journal of Refractive Surgery 37 (2), 119-125  
+ - Forecasting Progressive Trends in Keratoconus by Means of a Time Delay Neural Network  
+    M Jiménez-García, I Issarti, EO Kreps, S Ní Dhubhghaill, C Koppen, D Varssano, JJ Rozema  
+    2021 Journal of Clinical Medicine 10 (15), 3238  
+ - Preclinical Testing of Small Diameter Descemet Membrane Endothelial Keratoplasty Grafts to Increase Tissue Availability  
+    S Ní Dhubhghaill, A Miron, JT Lie, I Dapena, S Oellerich, GRJ Melles.  
+    2021 Plos one 16 (2), e0246516  
+ - Anterior Megalophthalmos Cataract Treated by Bag-In-The-Lens Implantation anf Customized Lens Power Calculation  
+    S Ní Dhubhghaill, B Ballet, JT Lie, C Janssen, MJ Tassignon, JJ Rozema  
+    2021 Journal of EuCornea Vol 10(1)  
+ - Improving Endothelial Explant Tissue Culture by Novel Thermoresponsive Cell Culture System  
+    A Miron, D Spinozzi, J Lie, GRJ Melles, S Oellerich, S Ni Dhubhghaill  
+    2021 Current Eye Research 46 (3), 290-293  
+ - Densitometry Marks Delineating the Affected Area in Keratoconus: Clinical Suitability of a New Descriptive System Based on its Repeatability and Reproducibility  
+    M Jiménez-García, S Ní Dhubhghaill, S Hershko, C Koppen, JJ Rozema  
+    2021 Ophthalmic and Physiological Optics  
+ - An Overview of Advanced In Vitro Corneal Models: Implications for Pharmacological Testing  
+    J Van Meenen, S Ní Dhubhghaill, B Van den Bogerd, C Koppen  
+    2021 Tissue Engineering Part B reviews DOI: 10.1089/ten.TEB.2021.0031  
+ - Determining the Most Suitable Tomography-Based Parameters to Describe Progression in Keratoconus. The Retrospective Digital Computer Analysis of Keratoconus Evolution Project  
+    M Jiménez-García, EO Kreps, S Ni Dhubhghaill, S Hershko, C Koppen, JJ Rozema  
+    2021 Eye Contact Lens DOI: 10.1097/ICL.00  
+ - Pterygium: the Good, the Bad, and the Ugly  
+    SI Van Acker, B Van den Bogerd, M Haagdorens, V Siozopoulou, S Ní Dhubhghaill, I Pintelon, C Koppen  
+    2021 Cells Vol 10(7) 1567  
+ - Approaches for Corneal Endothelium Regenerative Medicine  
+    P Català, G Thuret, H Skottman, JS Mehta, M Parekh, S Ní Dhubhghaill, RWJ Collin, RMMA Nuijts, S Ferrari, VLS LaPointe, MM Dickman  
+    2021 Profress in Retinal and Eye Research  
+ - Intraocular Bag-In-The-Lens Exchange: Indications, Outcomes and Complications  
+    DC Dragnea, J Goemaere, MJ Tassignon, S Ní Dhubhghaill  
+    2021 Journal of Cataract and Refractive Surgery  
+ - Characterisation of Gel-forming Mucins Produced In Vivo and in Ex Vivo Conjunctival Explant Cultures  
+    SI Van Acker, B Van den Bogerd, ZP Van Acker, A Vailionytė, M Haagdorens, C Koppen, S Ni Dhubhghaill, DA Dartt, I Pintelon  
+    2021 International Journal of Molecular Sciences 22 (19), 10528  
+ - New Developments in Corneal Endothelial Cell Replacement  
+    D Spinozzi, A Miron, M Bruinsma, I Dapena, V Kocaba, MJ Jager, GRJ Melles, S Ní Dhubhghaill, S Oellerich  
+    2021 Acta Ophthalmologica Vol 99(7) 712-729  
+ - Outcomes of Human Leukocyte Antigen-Matched Allogeneic Cultivated Limbal Epithelial Transplantation in Aniridia-Associated Keratopathy-A Single-Center Retrospective Analysis  
+    J Behaegel, MJ Tassignon, N Lagali, A Consejo, C Koppen, S Ni Dhubhghaill  
+    2022 Cornea Issue 41(1) 69-77  
+ - Influence of Author's Gender on the Peer-Review Process in Vision Science  
+    M Jiménez-García,  A Consejo, DC Dragnea, I Fambuena, S Hershko, I Issarti, EO Kreps, SI Van Acker, S Ní Dhubhghaill, C Koppen, JJ Rozema  
+    2022 American Journal of Ophthalmology  
+ - Guidelines for the Initial Management of Acute Facial Nerve Palsy  
+    G Van Haesendonck, C Jorissen, M Lammers, I Ocak, T Menovsky, S Ni Dhubhghaill, OM Vanderveken, C Faris, V Van Rompaey    
+    2022 B-ENT Vol 18, 67-72  
+    
 ## Books and Book Chapters  
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
