@@ -230,10 +230,12 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - EBOD (European Board of Ophthalmology) passed, joint 3rd Place in Europe 2013
  - FEBOS-CR (Joint ESCRS/EBO Subspecialist Examination in Cataract and Refractive Surgery) passed 2017
 
-### Board memberships
+### Memberships
 
  - Board member of the examinations committee of the Joint ESCRS/EBO subspecialist examination
  - Board member of the Belgian Society of Cataract and Refractive Surgeons BSCRS
+ - Member of the Cornea Society
+ - Member of the American European Congress of Ophthalmic Surgery  
 
 ### Editorial Work  
 
@@ -286,8 +288,8 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
    Awarded 1000 euro
  - Funds for Research In Ophthalmology (FRO) awarded by the Belgian Academy of Ophthalmology  
    Awarded 10,000 euro to research the optical effects of explanted IOLs
- - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (total award 783065 euro) for implementation of a multicentre clinical trial in corneal limbal stem cell therapy.
-
+ - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (total award 783,065 euro) for implementation of a multicentre clinical trial in corneal limbal stem cell therapy.  
+ - Chief Investigator of the Belgian Endothelial Surgical Transplant of the Cornea (BEST Cornea) Clinical Study.  
 
 ## Lectures
 
