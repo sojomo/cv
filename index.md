@@ -78,8 +78,9 @@ April 2021 to April 2022
 Harvard Medical School -- Cambridge, Massachusetts, United States
 
  - Postgraduate certificate in Surgical Leadership
- - Awarded 1st place (of 180 candidates) in the Capstone Projects, the signiature assignment of the course
-
+ - Awarded 1st place (of 180 candidates) in the Capstone Projects, the signiature assignment of the course  
+ - Special recognition for Excellence on the Finance team assignment  
+ 
 ## Additonal training
 
  - 2008, Certified completion of the Laboratory Animals in Science and Teaching (LAST) accreditation and Modules 1,2 and 3 UK accreditation (ASPA)  
@@ -90,9 +91,10 @@ Harvard Medical School -- Cambridge, Massachusetts, United States
  - 2011, A rational approach to retinal detachment (Chair: B.Aylward), Joint AAO/SOE meeting, Geneva  
  - 2011, Dry AMD workshop (Chair: U. Chakravarthy), Joint AAO/SOE meeting, Geneva  
  - 2011, Neuro-ophthalmology Course, (Ms P. Logan) August, Beaumont Hospital  
- - 2012, Theoretical and practical instruction in performing the surgical procedure of Trabeculectomy (Prof P Shah), Birmingham, February 2012  
+ - 2012, Theoretical and practical instruction in performing the surgical procedure of Trabeculectomy (Prof P Shah), Birmingham.   
  - 2012, ESCRS wet lab -- managing phaco complications, Milan, September 2012  
  - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary  
+ - 2018, DMEK surgical wetlab - Netherlands Institute for Innovatie Ophthalmic Surgery, Rotterdam, The Netherlands  
  - 2019, Holoclar Autologous corneal stem cell therapy investigators meeting, Rome, Italy  
 
 ## Training courses given   
@@ -127,7 +129,7 @@ NIIOS Netherlands Institute for Innovative Ocular Surgery -- Laan op Zuid 88, 30
 
 ### Freelance Medical Science Writer
 
-February 2015 to present
+February 2015 to 2021
 Regular article submissions for Eurotimes magazine and Eurotimes conference supplements
 
 ### Staff Member University Hospital Antwerp
@@ -288,8 +290,8 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
    Awarded 1000 euro
  - Funds for Research In Ophthalmology (FRO) awarded by the Belgian Academy of Ophthalmology  
    Awarded 10,000 euro to research the optical effects of explanted IOLs
- - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (total award 783,065 euro) for implementation of a multicentre clinical trial in corneal limbal stem cell therapy.  
- - Chief Investigator of the Belgian Endothelial Surgical Transplant of the Cornea (BEST Cornea) Clinical Study.  
+ - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (total award 783.065 euro) for implementation of a multicentre clinical trial in corneal limbal stem cell therapy.  
+ - Chief Investigator of the Belgian Endothelial Surgical Transplant of the Cornea (BEST Cornea) Clinical Study awarded by the KCE Clinical Trials mandate (total award 1.060.000 euro) ClinicalTrials.gov Identifier: NCT05436665     
 
 ## Lectures
 
@@ -675,6 +677,9 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Guidelines for the Initial Management of Acute Facial Nerve Palsy  
     G Van Haesendonck, C Jorissen, M Lammers, I Ocak, T Menovsky, S Ni Dhubhghaill, OM Vanderveken, C Faris, V Van Rompaey    
     2022 B-ENT Vol 18, 67-72  
+ -  A Deep Look into Animated Eyes  
+    J Rozema, S Ni Dhubhghaill
+    2022 Journal of Optometry 15(2), 107  
     
 ## Books and Book Chapters  
 
