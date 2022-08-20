@@ -677,10 +677,19 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Guidelines for the Initial Management of Acute Facial Nerve Palsy  
     G Van Haesendonck, C Jorissen, M Lammers, I Ocak, T Menovsky, S Ni Dhubhghaill, OM Vanderveken, C Faris, V Van Rompaey    
     2022 B-ENT Vol 18, 67-72  
- -  A Deep Look into Animated Eyes  
-    J Rozema, S Ni Dhubhghaill
+ - A Deep Look into Animated Eyes  
+    JJ Rozema, S Ni Dhubhghaill  
     2022 Journal of Optometry 15(2), 107  
-    
+ - Intraocular bag-in-the-lens Exchange: Indications, Outcomes and Complications  
+    DC Dragnea, RN Truta, J Goemaere, MJ Tassignon, SN Dhubhghaill  
+    2022 Journal of Cataract and Refractive Surgery 48(5), 568-575  
+ - Corneal Endothelial Wound Healing: Understanding the Regenerative Capacity of the Innermost Layer of the Cornea  
+    H Vercammen, A Miron, S Oellerich, GRJ Melles, S Ní Dhubhghaill, C Koppen, B Van den Bogerd  
+    2022 Translational Research (in press)  
+ - Acanthamoeba Keratitis After Corneal Refractive Surgery: A Case Series and Literature Review  
+    NJ Lu, Q Kang, S Ni Dhubhghaill  
+    2022 Journal of Refractive Surgery Case Reports 2(2), e32-e37  
+
 ## Books and Book Chapters  
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
@@ -709,9 +718,6 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      PAREXEL International
  - MERCURIC Oncology study
      Oxford University clinical study
- - PREMED Clinical study
-     ESCRS study
  - MLEC Clinical trial
      Limbal stem cell clinical trial
- - MYOPRED Clinical study
-     Prospective study on retinal detachment after cataract surgery in myopia
+
