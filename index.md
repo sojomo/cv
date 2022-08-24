@@ -531,7 +531,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  Behaegel J, Ni Dhubhghaill SS, Koppen C.  
  2017 Eye and Contact lens. In Press 5/12/2017  
  - Characterizing human decellularized crystalline lens capsules as a scaffold for corneal endothelial tissue engineering  
-    ergqwertgwetg Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.  
+     Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.  
      2017 J Tissue Engineering and Regenerative Med. In Press 21/12/2017   
  - A review of the evidence for in vivo corneal endothelial regeneration.  
      Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
