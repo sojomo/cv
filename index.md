@@ -243,11 +243,13 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Committee member of the Digital Health Committee (ESCRS)
  - Member of the Cornea Society  
  - Member of the American European Congress of Ophthalmic Surgery (AECOS)  
+ - Member of the Anterior Segment Expert Committee of the European Vision Institute Clinical Research Network (EVICR.net) 
 
 ### Editorial Work  
 
  - Editorial board for the Journal of EU Cornea since Feb 2019
  - Editorial board for Eurotimes magazine since Oct 2018
+ - European (EBO) editor for the American Academy of Ophthalmology (AAO) Basic and Clinical Science Course Section 11: Lens and Cataract  
 
 ### Educational Roles: Student Guidance and Supervision
 
@@ -694,6 +696,12 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Acanthamoeba Keratitis After Corneal Refractive Surgery: A Case Series and Literature Review  
     NJ Lu, Q Kang, S Ni Dhubhghaill  
     2022 Journal of Refractive Surgery Case Reports 2(2), e32-e37  
+ -  The Management of Chemosis after Blepharoplasty  
+    S Ni Dhubhghaill, C Faris  
+    2022 Facial Plastic Surgery: FPS
+ - Wave-like Calcification on the Posterior Surface of an Acrylic Hydrophilic Bag-in-the-Lens (BIL) implant  
+   SN Dhubhghaill, C Janssen, DC Dragnea, L Van Os, J Rozema, L Werner, D Van Dyck, MJ Tassignon  
+   2022 American Journal of Ophthalmology Case Reports Vol 28, 101693   
 
 ## Books and Book Chapters  
 
