@@ -234,10 +234,15 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
 ### Memberships
 
- - Board member of the examinations committee of the Joint ESCRS/EBO subspecialist examination
- - Board member of the Belgian Society of Cataract and Refractive Surgeons BSCRS
- - Member of the Cornea Society
- - Member of the American European Congress of Ophthalmic Surgery  
+ - Board member of the European Society for Cataract and Refractive Surgery (ESCRS)  
+ - Board member of the Belgian Society of Cataract and Refractive Surgeons (BSCRS)  
+ - Vice Chair and Co-opted Expert of the VV working group of the European Board of Ophthalmology (EBO)  
+ - Committee member of the examinations committee of the Joint ESCRS/EBO subspecialist examination 
+ - Committee member of the Education Committee (ESCRS)
+ - Committee member of the Cornea Committee (ESCRS)
+ - Committee member of the Digital Health Committee (ESCRS)
+ - Member of the Cornea Society  
+ - Member of the American European Congress of Ophthalmic Surgery (AECOS)  
 
 ### Editorial Work  
 
