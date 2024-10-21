@@ -114,9 +114,15 @@ Harvard Medical School -- Cambridge, Massachusetts, United States
 
 ## Career
 
+### Chair of Ophthalmology The Free University of Brussels (VUB), Head of the Department of Ophthalmology UZ Brussels
+
+100% FTE August 2023 to present  
+
+Brussels University Hosptial VUB, Laerbekenlaan 101, Jette, 1090 Belgium  
+
 ### Senior Staff Member and BAP Professor University Hospital Antwerp
 
-100% FTE Setember 2019 to present 
+100% FTE Setember 2019 to July 2023
 40% FTE September 2018 to August 2019
 100% FTE December 2016 to August 2018
 
