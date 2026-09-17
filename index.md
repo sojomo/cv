@@ -120,6 +120,8 @@ Harvard Medical School -- Cambridge, Massachusetts, United States
 
 Brussels University Hosptial VUB, Laerbekenlaan 101, Jette, 1090 Belgium  
 
+ - Flemish surgical lead on the Eye Moonshot within the RegMed XB cross-border regenerative medicine collaboration
+
 ### Senior Staff Member and BAP Professor University Hospital Antwerp
 
 100% FTE September 2019 to July 2023
@@ -240,12 +242,13 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
 ### Memberships
 
- - Board member of the European Society for Cataract and Refractive Surgery (ESCRS)  
- - Board member of the Belgian Society of Cataract and Refractive Surgeons (BSCRS)  
+ - Elected Council Member of the European Society for Cataract and Refractive Surgery (ESCRS)  
+ - Chair of the Cornea Committee (ESCRS)
+ - Vice President of the Belgian Society of Cataract and Refractive Surgeons (BSCRS)  
+ - Vice Chair of the Exam Committee of the European Board of Ophthalmology (EBO)  
  - Vice Chair and Co-opted Expert of the VV working group of the European Board of Ophthalmology (EBO)  
  - Committee member of the examinations committee of the Joint ESCRS/EBO subspecialist examination 
  - Committee member of the Education Committee (ESCRS)
- - Committee member of the Cornea Committee (ESCRS)
  - Committee member of the Digital Health Committee (ESCRS)
  - Member of the Cornea Society  
  - Member of the American European Congress of Ophthalmic Surgery (AECOS)  
@@ -305,6 +308,10 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
    Awarded 10,000 euro to research the optical effects of explanted IOLs
  - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (total award 783.065 euro) for implementation of a multicentre clinical trial in corneal limbal stem cell therapy.  
  - Chief Investigator of the Belgian Endothelial Surgical Transplant of the Cornea (BEST Cornea) Clinical Study awarded by the KCE Clinical Trials mandate (total award 1.060.000 euro) ClinicalTrials.gov Identifier: NCT05436665     
+
+## Patents
+
+ - PCT/EP2024/061509, filed via VUB Tech Transfer
 
 ## Lectures
 
@@ -412,6 +419,18 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
 ## Publications
 
+Over 150 peer-reviewed publications. Author-position breakdown of journal articles, from the VUB PURE
+research portal (journal-quartile data is not included in the PURE export and would need a separate
+impact-factor lookup per journal):
+
+|                    | 2020-2025 | All years |
+|--------------------|-----------|-----------|
+| First author       | 6         | 11        |
+| Second author      | 12        | 27        |
+| Last author        | 17        | 30        |
+| Other/group author | 45        | 62        |
+| **Total**          | **80**    | **130**   |
+
  - Reversible and size selective opening of the inner Blood-Retina Barrier: A novel therapeutic strategy  
      Campbell M, Nguyen ATH, Kiang AS, Tam LCS, Kenna PF, Ni Dhubhghaill SS, Humphries MM, Farrar GJ, Humphries P.  
      2009 Retinal Degenerative Diseases, 301-308
@@ -489,7 +508,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      Hidalgo IR, Perez PR, Rozema JJ, Koppen C, Ni Dhubhghaill SS, Zakaria N, Tassignon, MJ.
      2015 Invest Ophthalmol Vis Sci. -- 56 (7), 1641-1641
  - Pediatric bag-in-the-lens implantation: Long-term follow-up.     
-     Van Looveren J, Ni Dhubhghaill SS, Godts D, Bakker E, De Veuster I, Mathysen D, Tassignon, MJ.  
+     Van Looveren J, Ni Dhubhghaill SS, Godts D, Bakker E, De Veuster I, Mathysen D, Tassignon, MJ.  
      2015 J Cataract Refract Surg. -- 41 (8), 1685-1692
  - Long-term visual acuity, retention and complications observed with the type-I and type-II Boston keraprostheses
    in and Irish population  
@@ -708,6 +727,153 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Wave-like Calcification on the Posterior Surface of an Acrylic Hydrophilic Bag-in-the-Lens (BIL) implant  
    SN Dhubhghaill, C Janssen, DC Dragnea, L Van Os, J Rozema, L Werner, D Van Dyck, MJ Tassignon  
    2022 American Journal of Ophthalmology Case Reports Vol 28, 101693   
+ - Cataract surgical training in Europe: European Board of Ophthalmology survey  
+     S Ní Dhubhghaill, M Sanogo, F Lefebvre, W Aclimandos, R Asoklis, H Atilla, C Creuzot-Garcher, D Curtin, B Cvenkel, L Flanagan, T Kivelä, A Maino, R Martinez Costa, S Priglinger, H Prior Filipe, M Stopa, B Strong, J Sturmer, M Tassignon, R Ivekovic, T Bourcier  
+     2023 Journal of Cataract and Refractive Surgery 49(11), 1120-1127  
+ - DMEK surgical training: an instructional guide on various wet-lab methods  
+     M Parekh, A Ruzza, M Rovati, A Tzamalis, D Romano, N Gupta, P Vadavalli, M Bhogal, V Jhanji, O Sawant, F Semeraro, D Ponzin, S Jacob, D Dragnea, M Mora, S Dhubhghaill, R Fogla, N Sharma, U Jurkunas, S Ferrari, V Romano  
+     2023 Survey of Ophthalmology 68(6), 1129-1152  
+ - New keratoconus staging system based on OCT  
+     N-J Lu, F Hafezi, C Koppen, J Alió Del Barrio, I Aslanides, S Awwad, S Ní Dhubhghaill, R Pineda, E Torres-Netto, L Wang, S-H Chen, L-L Cui, J Rozema  
+     2023 Journal of Cataract and Refractive Surgery 49(11), 1098-1105  
+ - Ocular Surface Homeostasis After Scleral Lens Usage  
+     B Ballet, J Behaegel, R Sjur, A Consejo, H Aass, T Utheim, C Koppen, S Ní Dhubhghaill  
+     2023 Eye & Contact Lens 49(11), 459-463  
+ - Erratum: Belgian Endothelial Surgical Transplant of the Cornea (BEST cornea) protocol: clinical and patient-reported outcomes of Ultra-Thin Descemet Stripping Automated Endothelial Keratoplasty (UT-DSAEK) versus Descemet Membrane Endothelial Keratoplasty (DMEK) -- a multicentric, randomised, parallel group pragmatic trial in corneal endothelial decompensation (BMJ Open (2023) 13 (e072333) DOI: 10.1136/bmjopen-2023-072333)  
+     S Ní Dhubhghaill  
+     2023 BMJ Open  
+ - Clear corneal incision, an important step in modern cataract surgery: a review.  
+     A Borkenstein, R Packard, S Ní Dhubhghaill, D Lockington, E Donnenfeld, E Borkenstein  
+     2023 Eye (London, England) 37(14), 2864-2876  
+ - Belgian Endothelial Surgical Transplant of the Cornea (BEST cornea) protocol: clinical and patient-reported outcomes of Ultra-Thin Descemet Stripping Automated Endothelial Keratoplasty (UT-DSAEK) versus Descemet Membrane Endothelial Keratoplasty (DMEK) - a multicentric, randomised, parallel group pragmatic trial in corneal endothelial decompensation  
+     B Bruyn, S Ní Dhubhghaill, I Claerhout, K Claes, A Deconinck, H Delbeke, M Huizing, I Krolo, M Muijzer, S Oellerich, D Roels, K Termote, B Bogerd, V Van Gerwen, I Verhaegen, R Wisse, K Wouters, T Consortium, B Duchesne, C Koppen  
+     2023 BMJ Open 13(9), 1-10  
+ - Combinations of Scheimpflug tomography, ocular coherence tomography and air-puff tonometry improve the detection of keratoconus  
+     N-J Lu, C Koppen, F Hafezi, S Ní Dhubhghaill, I Aslanides, Q-M Wang, L-L Cui, J Rozema  
+     2023 Contact lens & anterior eye : the journal of the British Contact Lens Association  
+ - Early and late-onset cell migration from peripheral corneal endothelium  
+     A Miron, S Ní Dhubhghaill, V Kocaba, M Jager, G Melles, S Oellerich  
+     2023 PLOS ONE  
+ - Matrix metalloproteinase-3 (MMP-3)--mediated gene therapy for glaucoma  
+     J O'Callaghan, C Delaney, M O'Connor, J Batenburg-Sherwood, M Schicht, E Lütjen-Drecoll, N Hudson, S Dhubhghaill, P Humphries, C Stanley, A Keravala, T Chalberg, M Lawrence, M Campbell  
+     2023 Science Advances  
+ - Corneal Neurotization---Indications, Surgical Techniques and Outcomes  
+     D Dragnea, I Krolo, C Koppen, C Faris, B Bogerd, S Dhubhghaill  
+     2023 Journal of clinical medicine 12(6), 1-22  
+ - Safety of the bag-in-the-lens implantation regarding the development of clinically significant pseudophakic cystoid macular edema: A retrospective case series study  
+     D Scheers, J Rens, L Os, S Dhubhghaill, V Groot, S Kiekens, J Looveren, K Wouters, M-J Tassignon  
+     2023 PLOS ONE  
+ - Medizinische Ansätze zur Regeneration des Hornhautendothels  
+     P Català, G Thuret, H Skottman, J Mehta, M Parekh, S Dhubhghaill, R Collin, R Nuijts, S Ferrari, V LaPointe, M Dickman  
+     2023 Kompass Ophthalmologie, 83--101  
+ - Reply: Endoart  
+     J Rens, I Krolo, C Koppen, S Dhubhghaill  
+     2024 Cornea 43(12), e50  
+ - The potential influence of the ligament of Wieger on the crystalline lens shape  
+     H Ghaderi, S Ní Dhubhghaill, M-J Tassignon, L Van Os, C Koppen, J Rozema  
+     2024 Scientific reports  
+ - The role of topical insulin on ocular surface restoration: A review  
+     I Krolo, J Behaegel, K Termote, B Bruyn, M De Schepper, S Oellerich, S Ní Dhubhghaill  
+     2024 Survey of Ophthalmology 69(5), 805-817  
+ - Formación en cirugía de cataratas en España: análisis de resultados de una encuesta del European Board of Ophthalmology en una cohorte española  
+     R Yaïci, RM-C Pérez, F Lefebvre, F Negrete, S Dhubhghaill, M Sanogo, W Aclimandos, R Asoklis, H Atilla, C Creuzot-Garcher, D Curtin, B Cvenkel, L Flanagan, T Kivelä, A Maino, S Priglinger, H Filipe, M Stopa, B Strong, J Sturmer, M Tassignon, R Ivekovic, T Bourcier  
+     2024 Archivos de la Sociedad Española de Oftalmología 99(9), 373-382  
+ - Combination of a monofocal and one type of extended depth-of-focus (zonal refractive) intraocular lens (COMEDI) in bilateral cataract surgery protocol: a monocentric, randomised, parallel group trial in cataract surgery  
+     K Termote, R Schoor, I Krolo, S Oellerich, W Cools, H Delbeke, S Dhubhghaill  
+     2024 BMJ open ophthalmology  
+ - Reply: Cataract surgical training in Europe: European Board of Ophthalmology survey  
+     T Bourcier, S Dhubhghaill, R Yaïci, M Sanogo, F Lefebvre, W Aclimandos, R Asoklis, H Atilla, C Creuzot-Garcher, D Curtin, B Cvenkel, L Flanagan, T Kivelä, R Costa, S Priglinger, H Filipe, M Stopa, B Strong, J Sturmer, M Tassignon, R Ivekovic, A Maino  
+     2024 Journal of Cataract & Refractive Surgery 50(8), 897-898  
+ - Comparison of Scheimpflug Corneal Tomography and Anterior Segment Optical Coherence Tomography Measurements in Corneal Cystinosis: A Case Series.  
+     L Vercauteren, A Consejo, V De, I Krolo, C Koppen, S Ní Dhubhghaill  
+     2024 Eye & Contact Lens 50(7), 321-328  
+ - Artificial Endothelial Layer Implantation After Multiple Failed Keratoplasties  
+     J Rens, I Krolo, C Koppen, S Ni Dhubhghaill  
+     2024 Cornea 43(6), 790-794  
+ - "Keep on ROCKIn": Repurposed ROCK inhibitors to boost corneal endothelial regeneration  
+     H Vercammen, M Ondra, J Kotulova, E De La Hoz, C Witters, K Jecmenova, M Le Compte, C Deben, S Ní Dhubhghaill, C Koppen, M Hajdúch, B Bogerd  
+     2024 Biomedicine & Pharmacotherapy  
+ - Severe Corneal Damage After Minor Eyelid Surgery: A Case Series  
+     A-S Bonte, S Ni Dhubhghaill, I Leysen, C Koppen  
+     2024 Eye & Contact Lens 50(4), 194-197  
+ - Correction to: Association of Patient Satisfaction with Cataract Grading in Five Types of Multifocal IOLs  
+     S Niazi, Z Gatzioufas, S Ni Dhubhghaill, M Moshirfar, A Faramarzi, F Mohammadi, B Kheiri, A Peyman, M Heidari, F Doroodgar  
+     2024 Advances In Therapy  
+ - Combined or sequential DMEK in cases of cataract and Fuchs endothelial corneal dystrophy---A systematic review and meta‐analysis  
+     V Romano, M Passaro, B Bachmann, L Baydoun, S Dhubhghaill, M Dickman, H Levis, M Parekh, M Rodriguez-Calvo-De-Mora, C Costagliola, G Virgili, F Semeraro  
+     2024 Acta Ophthalmologica 102(1), e22-e30  
+ - Definitions for Keratoconus Progression and Their Impact on Clinical Practice  
+     REDCAKE Study Group (S Ní Dhubhghaill, contributing member)  
+     2024 Eye & Contact Lens 50(1), 1-9  
+ - Association of Patient Satisfaction with Cataract Grading in Five Types of Multifocal IOLs  
+     S Niazi, Z Gatzioufas, S Dhubhghaill, M Moshirfar, A Faramarzi, F Mohammadi, B Kheiri, A Peyman, M Heidari, F Doroodgar  
+     2024 Advances In Therapy 41(1), 231-245  
+ - Visual outcomes in patients with bilateral early to moderate primary open-angle glaucoma following wavefront-shaping partial-range of field-extend intraocular lens implantation  
+     M Guarro, I Goñi Guarro, E López, S Ruiz, M Vázquez, L Sararols, S Ní Dhubhghaill, M Biarnés  
+     2025 The British journal of ophthalmology 110(6), 621-626  
+ - Global trends and practice patterns in virtual reality simulation training for ophthalmic surgery: an international survey use of virtual reality simulation training around the world  
+     L Dormegny, R Yaici, E Koestel, S Dhubhghaill, C Ahiwalay, A Bacchav, J-L Bourges, G Dechriste, H Dick, H Filipe, E Flockerzi, D Gaucher, V Lansingh, P Gonzalez, B Henderson, S Kuntz, R Rafanomezantsoa, J-M Andre, G Rocha, A Rousseau, A Sauer, M Schaeffer, B Seitz, L Solecki, A Thomsen, N Chakfe, A Lejay, T Bourcier  
+     2025 Scientific reports  
+ - Clinical Applications of Corneal Cells Derived from Induced Pluripotent Stem Cells  
+     Y Luan, A Musayeva, J Kim, D Le Blon, B Bogerd, M Dickman, V LaPointe, S Ni Dhubhghaill, S Oellerich  
+     2025 Biomolecules  
+ - Competency‐based European training requirements for the specialty of ophthalmology. Recommendations from the UEMS section of ophthalmology and the European Board of Ophthalmology  
+     H Filipe, R Yaïci, R Ivekovic, D Curtin, R Asoklis, H Atilla, E Bak, A Bestué, M Beaconsfield, C Garcher, B Cvenkel, L Flanagan, S Imhof, T Kivelä, C Koppen, E Kominec, A Maino, F Mouriaux, A Muselier, S Dhubghaill, K Paust, S Priglinger, M Stopa, B Strong, F Tanner, M Tassignon, P Ursell, T Group, W Aclimandos, T Bourcier  
+     2025 Acta Ophthalmologica 104(2), e204-e215  
+ - A Novel Optical Coherence Tomography- based Keratoconus Diagnostic Index Incorporating Stromal and Epithelial Features  
+     N-J Lu, C Koppen, S Dhubhghaill, Q-M Wang, S-H Chen, L-L Cui, J Rozema  
+     2025 Journal of Refractive Surgery 41(8), 748-759  
+ - Cataract surgery in megalocornea: A qualitative and quantitative evaluation of published literature.  
+     S Vaccaro, M Ventura, M Passaro, M Ferrara, F Semeraro, S Dhubhghaill, V Romano  
+     2025 Acta Ophthalmologica 103(5), 505-518  
+ - Drug Repurposing for Corneal Diseases-Should We Look Back More Often to Move Forward?  
+     S Oellerich, D Larkin, S Ní Dhubhghaill  
+     2025 Cornea 44(7), 803-805  
+ - Cataract surgical training: Analysis of the results of the European Board of Ophthalmology survey in the Swiss cohort  
+     R Yaïci, L Khamsy, J Potic, S Dhubhghaill, M Sanogo, F Lefebvre, W Aclimandos, R Asoklis, H Atilla, C Creuzot-Garcher, D Curtin, B Cvenkel, L Flanagan, T Kivelä, A Maino, R Costa, H Filipe, M Stopa, B Strong, M Tassignon, R Ivekovic, S Priglinger, J Sturmer, T Bourcier  
+     2025 European journal of ophthalmology 35(4), 1169-1178  
+ - Controversies, consensuses and guidelines on modern cataract surgery by the academy of Asia-Pacific professors of ophthalmology (AAPPO)  
+     S Srinivas, A Young, A Behndig, D Change, S Dhubhghaill, Y Eomj, A Fan, O Findl, K Gundersen, R Khanna, T Kohnen, F Mah, K Miller, M Nanavaty, R Nuijts, T Oshika, G Pardianto, N Reus, S Ruit, N Sharma, R Venkatesh, M Zhang, K Zheng, S Rao, J Alio  
+     2025 Asia-pacific Journal of Ophthalmology  
+ - Is it the right time to promote competency‐based European Training Requirements in Ophthalmology? A European Board of Ophthalmology survey  
+     L Dormegny, H Filipe, L Jeanjean, M Stopa, W Aclimandos, R Asoklis, H Atilla, C Creuzot-Garcher, D Curtin, B Cvenkel, L Flanagan, R Ivekovic, T Kivelä, R Costa, S Dhubhghaill, S Priglinger, B Strong, J Sturmer, M-J Tassignon, A Maino, T Bourcier  
+     2025 Acta Ophthalmologica 103(4), 404-415  
+ - Predictive Value of Optical Coherence Tomography Biomarkers in Patients with Persistent Diabetic Macular Edema Undergoing Cataract Surgery Combined with a Dexamethasone Intravitreal Implant  
+     G Fasolino, M Lazaar, S Ní Dhubhghaill, S Oellerich, D Della Rocca  
+     2025 Bioengineering (Basel, Switzerland) 12(5), 1-13  
+ - Cataract surgical training in Poland: analysis of the European board of ophthalmology survey results.  
+     R Yaïci, M Mirr, L Solecki, E Koestel, E Bazarya, S Dhubhghaill, M Sanogo, F Lefebvre, W Aclimandos, R Asoklis, H Atilla, C Creuzot-Garcher, T Bourcier  
+     2025 BMC Medical Education  
+ - Kataraktchirurgische Ausbildung in Deutschland: eine Umfrage des European Board of Ophthalmology  
+     R Yaïci, J Schiefelbein, S Dhubhghaill, M Sanogo, F Lefebvre, W Aclimandos, R Asoklis, H Atilla, C Creuzot-Garcher, D Curtin, B Cvenkel, L Flanagan, T Kivelä, A Maino, R Costa, H Filipe, M Stopa, B Strong, J Stürmer, M-J Tassignon, R Ivekovic, S Priglinger, T Bourcier  
+     2025 Klinische Monatsblatter fur Augenheilkunde 242(8), 836-845  
+ - Formation à la chirurgie de la cataracte en France : analyse des résultats de l'enquête de l'European Board of Ophthalmology dans la cohorte française  
+     R Yaïci, M Sanogo, F Lefebvre, S Dhubhghaill, W Aclimandos, R Asoklis, H Atilla, C Creuzot-Garcher, D Curtin, B Cvenkel, L Flanagan, T Kivelä, A Maino, R Martínez-Costa, S Priglinger, H Filipe, M Stopa, B Strong, J Sturmer, M-J Tassignon, R Ivekovic, J-L Bourges, A Rousseau, M-N Delyfer, F Mouriaux, T Bourcier  
+     2025 Journal Français d'Ophtalmologie  
+ - Annulated Surprise during Cataract Surgery: A Case Report  
+     J Koulalis, R Hardi, D Tappe, S Ni Dhubhghaill, A Dugauquier  
+     2026 ACTA CYTOLOGICA 17(1), 681-686  
+ - Surgical repositioning of a SING IMT following haptic dislocation: Restoration of alignment and visual function  
+     S Ameli, S Ní Dhubhghaill, F Vidal-Aroca, G Fasolino  
+     2026 American Journal of Ophthalmology Case Reports  
+ - Costs associated with in-home postoperative eyedrop nursing care in Belgium: implications for a switch to dropless cataract surgery  
+     K Termote, H Delbeke, S Dhubhghaill  
+     2026 Journal of Cataract & Refractive Surgery 52(6), 625-626  
+ - Bag-in-the-lens technique  
+     S Ameli, I Krolo, S Oellerich, L Van Os, M-J Tassignon, S Ní Dhubhghaill  
+     2026 Frontiers in Ophthalmology 6, 1-9  
+ - Enhancing Patient Education in Cataract Surgery Using a Conversational Artificial Intelligence Chatbot: A Pilot Randomized Controlled Trial. pilot randomized controlled trial  
+     P Cardon De Lichtbeur, W Declerck, Q Rosseel, P Savieri, S Oellerich, S Ni Dhubhghaill  
+     2026 Journal of Cataract and Refractive Surgery 52(5), 470-475  
+ - Driving Forces and Perceived Barriers for the Adoption of Novel Endothelial Cell Therapies: An International Survey of Corneal Surgeons  
+     Y Luan, S Ni Dhubhghaill, J Rose-Nussbaumer, C Kort, V Romano, S Oellerich  
+     2026 Cornea  
+ - A brief history of keratoplasty  
+     H Dick, R Gerste, S Ni Dhubhghaill  
+     2026 Acta Ophthalmologica 104(2), 233-235  
+ - Fellowships across Europe: Insights from the European Board of Ophthalmology Survey  
+     R Yaïci, H Filipe, L Solecki, L Dormegny, E Koestel, S Dhubhghaill, R Asoklis, H Atilla, C Garcher, D Curtin, B Cvenkel, L Flanagan, B Strong, T Kivelä, A Maino, R Costa, R Ivekovic, S Priglinger, C Pruente, M Stopa, M Tassignon, W Aclimandos, T Bourcier  
+     2026 Acta Ophthalmologica 104(1), e112-e121  
 
 ## Books and Book Chapters  
 
@@ -739,4 +905,3 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      Oxford University clinical study
  - MLEC Clinical trial
      Limbal stem cell clinical trial
-
