@@ -245,8 +245,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Elected Council Member of the European Society for Cataract and Refractive Surgery (ESCRS)  
  - Chair of the Cornea Committee (ESCRS)
  - Vice President of the Belgian Society of Cataract and Refractive Surgeons (BSCRS)  
- - Vice Chair of the Exam Committee of the European Board of Ophthalmology (EBO)  
- - Vice Chair and Co-opted Expert of the VV working group of the European Board of Ophthalmology (EBO)  
+ - Co-opted Expert of the VV working group of the European Board of Ophthalmology (EBO)  
  - Committee member of the examinations committee of the Joint ESCRS/EBO subspecialist examination 
  - Committee member of the Education Committee (ESCRS)
  - Committee member of the Digital Health Committee (ESCRS)
@@ -256,7 +255,6 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
 ### Editorial Work  
 
- - Editorial board for the Journal of EU Cornea since Feb 2019
  - Editorial board for Eurotimes magazine since Oct 2018
  - European (EBO) editor for the American Academy of Ophthalmology (AAO) Basic and Clinical Science Course Section 11: Lens and Cataract  
 
@@ -297,7 +295,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
    Awarded 800 euro for ARVO conference 2009
  - Eithne Walls Memorial award, travel award from the Royal Victoria Eye and Ear Hospital.  
    Awarded 1000 euro to fund AAO/SOE conference Geneva 2011
- - Irish College of Ophthalmology, Barbara Know travel bursary.  
+ - Irish College of Ophthalmology, Barbara Knox travel bursary.  
    Awarded 1000 euro to travel to NEOS 2010
  - Royal Victoria Eye and Ear Hospital Clinical research prize 2012  
    Awarded 1000 euro to attend conference to present research
@@ -307,7 +305,8 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Funds for Research In Ophthalmology (FRO) awarded by the Belgian Academy of Ophthalmology  
    Awarded 10,000 euro to research the optical effects of explanted IOLs
  - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (total award 783.065 euro) for implementation of a multicentre clinical trial in corneal limbal stem cell therapy.  
- - Chief Investigator of the Belgian Endothelial Surgical Transplant of the Cornea (BEST Cornea) Clinical Study awarded by the KCE Clinical Trials mandate (total award 1.060.000 euro) ClinicalTrials.gov Identifier: NCT05436665     
+ - Chief Investigator of the Belgian Endothelial Surgical Transplant of the Cornea (BEST Cornea) Clinical Study awarded by the KCE Clinical Trials mandate (total award 1.060.000 euro) ClinicalTrials.gov Identifier: NCT05436665
+ - Fonds Wetenschappelijk Onderzoek FWOTM1212: Regenerative medicine for the corneal endothelium: self-unfolding, thermo-responsive bioengineered corneal grafts (total value 300.000)      
 
 ## Patents
 
